@@ -1,0 +1,168 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+	
+.main-container{
+	width:1200px;
+	margin: 0 auto;
+}
+header{
+	background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(../img/header.jpg);
+	min-height: 400px;
+	background-size: cover;
+	background-position: center;
+	
+	}
+
+ul{
+	float: right;
+	list-style: none;
+	margin-top: 25px;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #FFF;
+	padding: 10px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+ul li a:hover{
+	color: orange;
+}
+
+ul li.active{
+	color: #000;
+
+}
+.title{
+	top: 300px;
+	color: #fff;
+	position: relative;
+	font-size:180%;
+}
+
+.titlemain-container h1{
+	font-size:180%;
+}
+
+.titlemain-container p{
+	font-size:180%;
+}
+
+.second-section-text h3{
+	font-size:180%;
+	color: #8d60d1;
+}
+.second-section-text p{
+	font-size: 180%;
+	color:#333;
+}
+
+
+
+.second-section-text{
+	text-align: center;
+}
+ 
+.panel{
+	width:550px; 
+	float: left;
+	height:500px;
+	margin-bottom: 50px;
+
+}
+
+.panel h2{
+	color:#8d60d1;
+	font-family:Times New Roman, serif; 
+	font-size:180%;
+
+}
+.panel p{
+	color:#333; 
+	font-family: 'Roboto', sans-serif;
+	font-size:180%;
+}
+
+.two,.four,.six, .eight{
+	margin-left: 100px;
+}
+
+.clear{
+	 
+}
+/*
+/*.paneleight{
+	height: 400px;
+
+}*/
+/*.footermain-container{
+	background-color: #a575e0;
+	margin: 0 auto;
+	height: 450px;
+	width: 75%;
+	overflow: auto;
+
+}
+.social-media-links{
+	text-decoration: none;
+	color: black;
+	font-size: 
+}*/
+/*/*/*.third-section {
+		float: left;
+	/*height: 44.44%%;*/
+	width: 30%;
+	padding-left: 100px;
+	/*padding-left: 100px;*/*/
+
+}*/
+/*.follow{
+    float: left;
+    display: inline;
+	height: 33.33%;
+	width: 30%;
+
+}*/
+/*.contact{
+*/	/*float: left;*/
+/*	padding-top: 100px;
+*/	/*height: 33.33%;*/
+	/*width: 33%;*/
+	/*padding-left: 100px;
+}
+.third-section h3{
+	/*font-size: 150%;*/
+/*
+}
+.follow h3{
+	font-size: 150%;
+
+
+}
+.contact h3{
+	font-size: 150%;
+
+}
+.third-section p{
+	padding: 10px;
+	font-size: 130%;
+}
+.follow p{
+	padding: 10px;
+	font-size: 130%;
+	position: relative;
+}
+.follow i{
+	padding-right:10px;
+}
+.contact p{
+	padding: 20px;
+	font-size: 130%;
+}*/*/
