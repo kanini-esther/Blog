@@ -40,7 +40,104 @@ ul li.active{
 	color: #000;
 
 }
-.title{
+.container {
+	min-height: 450px;
+}
+.container h3{
+	padding-top: 80px;
+
+}
+.container p{
+	padding-top: 50px;
+}
+.container img{
+	padding-top: 100px;
+}
+.container h5{
+	padding-top: 100px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.title{
 	top: 300px;
 	color: #fff;
 	position: relative;
@@ -96,7 +193,7 @@ ul li.active{
 
 .clear{
 	 
-}
+}*/
 /*
 /*.paneleight{
 	height: 400px;
